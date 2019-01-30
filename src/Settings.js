@@ -11,8 +11,8 @@ const value = Object.seal({
     listeningPort: 3000,
 
     serverUpdateFrequency: 25,
-    serverName: "Agaruto FFA",
-    serverGamemode: "FFA",
+    serverName: "Agaruto Teams",
+    serverGamemode: "Teams",
     serverChatEnabled: false,
 
     worldMapX: 0,
